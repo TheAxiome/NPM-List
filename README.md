@@ -15,6 +15,12 @@ Go to the appropriate channels and tell me in my [discord server](https://discor
 
 I was inspired to make this in order to help new discord.js developers!
 
+- [Discord Ticket Maker](https://github.com/TheAxiome/discord_ticket_maker) - `npm i discord_ticket_maker`
+
+[Create support tickets per guild discord.js](https://www.npmjs.com/package/discord_ticket_maker)
+
+This is very easy to understand, and anyone can use it regardless of how experienced with discord.js you are!
+
 
 ## Next Discord.js NPMS
 
