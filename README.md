@@ -21,11 +21,16 @@ I was inspired to make this in order to help new discord.js developers!
 
 This is very easy to understand, and anyone can use it regardless of how experienced with discord.js you are!
 
+- [Discord Easy Economy](https://github.com/TheAxiome/discord_easy_economy) - `npm i discord_easy_economy`
+
+This was one of the suggestions in my discord server!
+
+[Create discord.js economy commands easily, with barley any effort!](https://www.npmjs.com/package/discord_easy_economy)
 
 ## Next Discord.js NPMS
 
 -Reaction Role (Name is in pending)
 
--Economy (Name is in pending)
+-Fun commands? (maybe)
 
--Ticket (Name is in pending)
+-Moderation? (maybe)
